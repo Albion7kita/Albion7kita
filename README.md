@@ -38,11 +38,6 @@ I’m Albion Kita, a CS student passionate about programming, AI, and technology
 
 ---
 
-## 📊 GitHub Stats
-You can add dynamic stats like this:
-
-```markdown
-![Albion's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 
 <!--
