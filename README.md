@@ -15,6 +15,16 @@ I’m Albion Kita, a CS student passionate about programming, AI, and technology
 
 ---
 
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
 ## 📫 How to Reach Me
 - **Email:** akita@neiu.edu 
 - **LinkedIn:** www.linkedin.com/in/albionkita
@@ -25,6 +35,14 @@ I’m Albion Kita, a CS student passionate about programming, AI, and technology
 - I love playing and watching **European football** ⚽  
 - In my free time, I like **walking and playing video games** 🎮  
 - I’m **originally from Albania** 🇦🇱  
+
+---
+
+## 📊 GitHub Stats
+You can add dynamic stats like this:
+
+```markdown
+![Albion's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 
 <!--
