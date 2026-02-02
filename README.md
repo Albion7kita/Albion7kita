@@ -32,7 +32,8 @@ I’m Albion Kita, a CS student passionate about programming, AI, and technology
 ---
 
 ## 🎯 Fun Facts
-- I love playing and watching **European football** ⚽  
+- I love playing and watching **European football** ⚽
+- I enjoy exploring new **technology and coding projects** 💻
 - In my free time, I like **walking and playing video games** 🎮  
 - I’m **originally from Albania** 🇦🇱  
 
